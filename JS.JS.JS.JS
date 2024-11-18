@@ -1,5 +1,7 @@
-const binary = document.querySelector("#binary")
 
+// TODO:Make the binary convert
+
+const binary = document.querySelector("#binary")
 binaryCheck()
 
 function binaryCheck(){
